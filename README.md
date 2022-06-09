@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Nandini Shrivastav</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandinishrivastav2003&label=Profile%20views&color=0e75b6&style=flat" alt="nandinishrivastav2003" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algo**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **HTML,CSS,C++,Java,DSA**
+- 💬 Ask me about **HTML,CSS,Javascript,Bootstrap,Jquery,C++,Java,DSA**
 
 - 📫 How to reach me **nandinishri2208@gmail.com**
 
